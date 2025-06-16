@@ -3,12 +3,11 @@ layout: home
 title: "Home"
 ---
 
-My name is Michael Barczay and I am a fifth year PhD candidate in Economics at the [European University Institute](https://www.eui.eu/en/academic-units/department-of-economics) in Florence, Italy. I am also a Research Associate and Teaching Assistant at the [Study Center Gerzensee](https://szgerzensee.ch) in Switzerland.
+Hi there! I'm Marius and I am a furth year PhD candidate in Economics at the [European University Institute](https://www.eui.eu/en/academic-units/department-of-economics) in Florence, Italy. 
+I am also a Research Analyst at [Monetary Policy Research Division](https://www.ecb.europa.eu/pub/economic-research/programmes/shared/pdf/Introducing_DG_Research.pdf) of the European Central Bank working on the [PRISMA](https://www.ecb.europa.eu/pub/research-networks/html/researcher_prisma.en.html) project.
 
-In September 2025, I will join the International Monetary Fund (IMF) as an Economist.
+I am working under the supervision of [Giancarlo Corsetti](https://sites.google.com/site/giancarlocorsetti/) and [Jesus Bueren](https://jesusbueren.github.io/).
 
-I am working under the supervision of [Alexander Monge-Naranjo](https://www.eui.eu/people?id=alexander-monge-naranjo) and [Russell Cooper](https://www.eui.eu/people?id=russell-cooper).
+I'm interested in work relating to **(Quantitative) Macroeconomics**, **Portfolio Choice** and **Firms**. On lighter side, I am a marked-by-life-supporter of the [1.FC Kaiserslautern](https://fck.de/de/) and I enjoy travelling a lot.
 
-My research focuses on topics related to **(Quantitative) Macroeconomics** and **Public Finance**.
-
-For more information, have a look at my [research](https://michaelbarczay.com/research) or my [CV](/assets/CV_Barczay.pdf). 
+For more information, have a look at my [research](https://mariusgruenewald.com/research) or my [CV](/assets/gruenewald_cv.pdf). 
