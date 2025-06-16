@@ -99,7 +99,7 @@ title: "research"
     with <a href="https://www.ecb.europa.eu/pub/research/authors/profiles/annalisa-ferrando.en.html"><em>Annalisa Ferrando</em></a>, 
     <a href="https://www.ecb.europa.eu/pub/research/authors/profiles/lukas-henkel.en.html"><em>Lukas Henkel</em>, 
     <em>Cecilia Sarchi</em> and 
-    <a href="https://sites.google.com/view/tobiasfabianmueller"><em>Tobias Müller</em> <br>
+    <a href="https://sites.google.com/view/tobiasfabianmueller"><em>Tobias Müller</em>
   </span>
 </div>
 
