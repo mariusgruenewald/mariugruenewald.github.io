@@ -15,9 +15,9 @@
 
 /* ---------- new image sizing ---------- */
 .research-item details .abstract-wrapper img {
-  flex: 0 1 40%;
-  width: 40%;
-  max-width: 300px;
+  flex: 0 1 50%;
+  width: 50%;
+  max-width: 400px;
   min-width: 180px;
   height: auto;
   object-fit: contain;
@@ -27,7 +27,7 @@
 
 /* text takes whatever’s left */
 .research-item details .abstract-wrapper .abstract-text {
-  flex: 1 1 calc(100% - 1em - 40%);
+  flex: 1 1 calc(100% - 1.2em - 50%);
   box-sizing: border-box;
 }
 
