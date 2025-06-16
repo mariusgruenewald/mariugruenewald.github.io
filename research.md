@@ -60,17 +60,18 @@ title: "research"
           violence. However, we also show that political violence may create a 
           pipeline problem if it deters the wider population of women from even 
           considering to run for office.
-        </p>
+          </p>
+        </div>
       </div>
-    </div>
-  </details>
+    </details>
+  </div>
 </div>
-
 ---
 
 <br>
 #### <ins>Work in Progress</ins><br><br>
 
+<div class="research">
   <div class="research-item">
     <span style="color:Navy; font-weight: bold;">
       Intergenerational Mortgage Financing – The Role of Cosigning
