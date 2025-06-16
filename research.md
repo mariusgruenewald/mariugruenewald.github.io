@@ -51,8 +51,16 @@ title: "research"
           experimental evidence that information about the prevalence of political 
           crime does not reduce willingness to run for office or engage in politics 
           among female respondents with high political interest, but may do so among 
-          
-
+          those with low political interest. Taken together, this study highlights 
+          resilience of underrepresented groups in face of increasing political 
+          violence. However, we also show that political violence may create a 
+          pipeline problem if it deters the wider population of women from even 
+          considering to run for office.
+        </p>
+      </div>
+    </div>
+  </details>
+</div>
 
 <br>
 #### <ins>Work in Progress</ins> <br>
