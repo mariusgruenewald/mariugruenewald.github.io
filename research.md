@@ -83,7 +83,8 @@ title: "research"
     Nonlinear Productivity Dynamics
   </span><br>
   <span style="font-size:0.9em; color:#555;">
-    with <em>Alberto Ferreira</em> and <em>David McCarthy</em><br>
+    with <a href="https://www.eui.eu/people?id=jose-pires-de-sousa-azevedo-ferreira"><em>Alberto Ferreira</em></a> and 
+    <a href="https://mccarthydavid.com/"><em>David McCarthy</em></a> <br>
     Presented at: <em>ECB Early Ideas Seminar (2024)</em>, <em>CREI Macro WG (2025)</em>
   </span>
 </div>
@@ -95,7 +96,10 @@ title: "research"
     The Effect Of Financial Constraints on Consumer Prices
   </span><br>
   <span style="font-size:0.9em; color:#555;">
-    with <em>Annalisa Ferrando</em>, <em>Lukas Henkel</em>, <em>Cecilia Sarchi</em> and <em>Tobias Müller</em>
+    with <a href="https://www.ecb.europa.eu/pub/research/authors/profiles/annalisa-ferrando.en.html"><em>Annalisa Ferrando</em></a>, 
+    <a href="https://www.ecb.europa.eu/pub/research/authors/profiles/lukas-henkel.en.html"><em>Lukas Henkel</em>, 
+    <em>Cecilia Sarchi</em> and 
+    <a href="https://sites.google.com/view/tobiasfabianmueller"><em>Tobias Müller</em> <br>
   </span>
 </div>
 
