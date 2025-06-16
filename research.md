@@ -27,7 +27,7 @@ title: "research"
     <div class="abstract-wrapper">
       <!-- your graph -->
       <img 
-        src="/assets/images/political-violence-women-politics.png"
+        src="/assets/img/ejpr70017-fig-0001-m.jpg"
         alt="Graph: Political Violence & Women's Descriptive Representation"
       >
       <!-- the actual abstract text -->
