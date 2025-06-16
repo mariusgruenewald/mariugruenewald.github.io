@@ -8,7 +8,11 @@ title: "research"
 #### <ins>Publications</ins> <br>
 <br>
 
+
 <div class="research">
+
+  <!-- Entry #1 -->
+  <div class="research-item">
   <p>
     <a href="https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.70017" style="color: Navy; font-weight: bold; text-decoration: none;">
       Does Political Violence Undermine Descriptive Representation? The Case of Women in Politics
@@ -67,40 +71,40 @@ title: "research"
 <br>
 #### <ins>Work in Progress</ins><br><br>
 
-<div class="research">
-  <span style="color:Navy; font-weight: bold;">
-    Intergenerational Mortgage Financing – The Role of Cosigning
-  </span><br>
-  <span style="font-size:0.9em; color:#555;">
-    Presented at: <em>EUI Alumni Conference (2025)</em>
-  </span>
+  <div class="research-item">
+    <span style="color:Navy; font-weight: bold;">
+      Intergenerational Mortgage Financing – The Role of Cosigning
+    </span><br>
+    <span style="font-size:0.9em; color:#555;">
+      Presented at: <em>EUI Alumni Conference (2025)</em>
+    </span>
+  </div>
+  
+  <hr>
+  
+  <div class="research-item">
+    <span style="color:Navy; font-weight: bold;">
+      Nonlinear Productivity Dynamics
+    </span><br>
+    <span style="font-size:0.9em; color:#555;">
+      with <a href="https://www.eui.eu/people?id=jose-pires-de-sousa-azevedo-ferreira"><em>Alberto Ferreira</em></a> and 
+      <a href="https://mccarthydavid.com/"><em>David McCarthy</em></a> <br>
+      Presented at: <em>ECB Early Ideas Seminar (2024)</em>, <em>CREI Macro WG (2025)</em>
+    </span>
+  </div>
+  
+  <hr>
+  
+  <div class="research-item">
+    <span style="color:Navy; font-weight: bold;">
+      The Effect Of Financial Constraints on Consumer Prices
+    </span><br>
+    <span style="font-size:0.9em; color:#555;">
+      with <a href="https://www.ecb.europa.eu/pub/research/authors/profiles/annalisa-ferrando.en.html"><em>Annalisa Ferrando</em></a>, 
+      <a href="https://www.ecb.europa.eu/pub/research/authors/profiles/lukas-henkel.en.html"><em>Lukas Henkel</em></a>, 
+      <em>Cecilia Sarchi</em> and 
+      <a href="https://sites.google.com/view/tobiasfabianmueller"><em>Tobias Müller</em></a>
+    </span>
+  </div>
+
 </div>
-
-<hr>
-
-<div class="research">
-  <span style="color:Navy; font-weight: bold;">
-    Nonlinear Productivity Dynamics
-  </span><br>
-  <span style="font-size:0.9em; color:#555;">
-    with <a href="https://www.eui.eu/people?id=jose-pires-de-sousa-azevedo-ferreira"><em>Alberto Ferreira</em></a> and 
-    <a href="https://mccarthydavid.com/"><em>David McCarthy</em></a> <br>
-    Presented at: <em>ECB Early Ideas Seminar (2024)</em>, <em>CREI Macro WG (2025)</em>
-  </span>
-</div>
-
-<hr>
-
-<div class="research">
-  <span style="color:Navy; font-weight: bold;">
-    The Effect Of Financial Constraints on Consumer Prices
-  </span><br>
-  <span style="font-size:0.9em; color:#555;">
-    with <a href="https://www.ecb.europa.eu/pub/research/authors/profiles/annalisa-ferrando.en.html"><em>Annalisa Ferrando</em></a>, 
-    <a href="https://www.ecb.europa.eu/pub/research/authors/profiles/lukas-henkel.en.html"><em>Lukas Henkel</em></a>, 
-    <em>Cecilia Sarchi</em> and 
-    <a href="https://sites.google.com/view/tobiasfabianmueller"><em>Tobias Müller</em></a>
-  </span>
-</div>
-
-
