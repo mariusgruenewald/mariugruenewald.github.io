@@ -3,34 +3,46 @@
   margin-bottom: 1.5em;
 }
 
+/* ---------- keep your wrapper rule as-is ---------- */
+.research-item details .abstract-wrapper {
+  display: flex;
+  flex-wrap: wrap;          /* stacks on phones */
+  align-items: flex-start;
+  margin-top: 0.5em;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* ---------- new image sizing ---------- */
 .research-item details .abstract-wrapper img {
-  /* 30 % of the row, but never more than 260 px and never less than 140 px  */
+  /* baseline: take ±30 % of the row */
   flex: 0 1 30%;
   width: 30%;
-  max-width: 260px;
-  min-width: 140px;
+
+  /* safety rails */
+  max-width: 260px;         /* don’t dominate big screens  */
+  min-width: 140px;         /* don’t shrink below readability */
+
   height: auto;
   object-fit: contain;
   margin-right: 1em;
   box-sizing: border-box;
 }
 
+/* text takes whatever’s left */
 .research-item details .abstract-wrapper .abstract-text {
-  /* fill whatever remains */
   flex: 1 1 calc(100% - 1em - 30%);
   box-sizing: border-box;
 }
 
-/* Optional: on very narrow screens, stack image + text vertically */
+/* ---------- optional: comfortable mobile stacking ---------- */
 @media (max-width: 540px) {
-  .research-item details .abstract-wrapper {
-    flex-direction: column;
-  }
+  .research-item details .abstract-wrapper { flex-direction: column; }
   .research-item details .abstract-wrapper img,
   .research-item details .abstract-wrapper .abstract-text {
-    flex: 0 0 auto;       /* stop the 30 % rule */
-    max-width: 100%;
+    flex: 0 0 auto;
     width: 100%;
+    max-width: 100%;
     margin-right: 0;
   }
 }
