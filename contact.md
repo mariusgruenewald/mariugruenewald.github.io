@@ -9,10 +9,10 @@ Department of Economics
 Via delle Fontanelle 18  
 50014 Fiesole  
 
-European Central Bank
-Monetary Policy Research
-Sonnemannstrasse 20
-60314 Frankfurt am Main
+European Central Bank <br>
+Monetary Policy Research <br>
+Sonnemannstrasse 20 <br>
+60314 Frankfurt am Main <br>
 
 **Email:** [marius.gruenewald@eui.eu](mailto:marius.gruenewald@eui.eu)  
 **Github:** [github.com/mariusgruenewald](https://github.com/mariusgruenewald)  
