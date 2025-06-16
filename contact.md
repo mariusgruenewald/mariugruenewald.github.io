@@ -16,7 +16,7 @@ Sonnemannstrasse 20 <br>
 
 **Email:** [marius.gruenewald@eui.eu](mailto:marius.gruenewald@eui.eu)  
 **Github:** [github.com/mariusgruenewald](https://github.com/mariusgruenewald)  
-**Blueskz:** [https://bsky.app/profile/mgruenewald.bsky.social](https://bsky.app/profile/mgruenewald.bsky.social)
+**Bluesky:** [https://bsky.app/profile/mgruenewald.bsky.social](https://bsky.app/profile/mgruenewald.bsky.social)
 
 
 
