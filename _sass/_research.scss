@@ -1,21 +1,27 @@
 // _sass/_research.scss
-.research details .abstract-wrapper {
+.research-item {
+  margin-bottom: 1.5em;
+}
+
+.research-item details .abstract-wrapper {
   display: flex;
-  flex-wrap: wrap;      /* allow the image/text to stack below on small screens */
+  flex-wrap: wrap;
   align-items: flex-start;
   margin-top: 0.5em;
-  width: 100%;          /* fill exactly the column width */
+  width: 100%;
   box-sizing: border-box;
 }
-.research details .abstract-wrapper img {
-  flex: 0 1 50%;        /* can shrink below 50% if needed */
-  max-width: 100%;      /* never overflow its flex item */
+
+.research-item details .abstract-wrapper img {
+  flex: 0 1 50%;
+  max-width: 100%;
   height: auto;
   object-fit: contain;
   margin-right: 1em;
   box-sizing: border-box;
 }
-.research details .abstract-wrapper .abstract-text {
-  flex: 1 1 50%;        /* share the row 1:1, but shrink if space is tight */
+
+.research-item details .abstract-wrapper .abstract-text {
+  flex: 1 1 50%;
   box-sizing: border-box;
 }
