@@ -5,7 +5,10 @@
   margin-top: 0.5em;
 }
 .research details .abstract-wrapper img {
-  flex: 0 0 50%;
+  flex: 0 0 50%;      /* take exactly half the width */
+  max-width: 100%;    /* never exceed its column */
+  height: auto;
+  object-fit: contain;/* preserve aspect ratio */
   margin-right: 1em;
 }
 .research details .abstract-wrapper .abstract-text {
