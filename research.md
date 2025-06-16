@@ -8,15 +8,15 @@ title: "research"
 #### <ins>Publications</ins> <br>
 <br>
 
-<div class="research-item">
+<div class="research">
   <span style="color:Navy">
     [**Does Political Violence Undermine Descriptive Representation?  
     The Case of Women in Politics**](https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.70017)
-  </span>  
+  </span>
   <span style="font-size:0.9em;">
-    joint work with <a href="https://www.jeyhunalizade.com/">*Jeyhun Alizade*</a>,
-    <a href="https://www.fabioellger.com/">*Fabio Ellger*</a> and
-    <a href="https://tichelbaecker.com/">*Thomas Tichelbaecker*</a>
+    joint work with [*Jeyhun Alizade*](https://www.jeyhunalizade.com/),
+    [*Fabio Ellger*](https://www.fabioellger.com/) and
+    [*Thomas Tichelbaecker*](https://tichelbaecker.com/)
   </span>
 
   <details>
