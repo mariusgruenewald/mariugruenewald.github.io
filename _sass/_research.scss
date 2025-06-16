@@ -3,6 +3,10 @@
   margin-bottom: 1.5em;
 }
 
+.research-item > p > a {
+  color: Navy !important;
+}
+
 /* ---------- keep your wrapper rule as-is ---------- */
 .research-item details .abstract-wrapper {
   display: flex;
