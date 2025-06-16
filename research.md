@@ -7,12 +7,29 @@ title: "research"
 <br>
 #### <ins>Publications</ins> <br>
 <br>
-<span style="color:Navy"> [**Does Political Violence Undermine Descriptive Representation?\\The Case of Women in Politics**](https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.70017) </span> - *European Journal of Political Research* <br>
-    -  <span style="font-size: 0.9em;"> joint work with [*Jeyhun Alizade*](https://www.jeyhunalizade.com/), [*Fabio Ellger*](https://www.fabioellger.com/) and [*Thomas Tichelbaecker*](https://tichelbaecker.com/) </span> <br>
 
-  <summary>Abstract</summary>
-Do attacks against politicians exacerbate the political underrepresentation of marginalized groups? Existing research suggests that candidates and office holders from underrepresented groups are more likely to become targets of political violence, but little is known about the consequences of indirect exposure to political violence for descriptive representation and political ambition. Focusing on the case of women in politics, we study how the prevalence of political violence affects both the descriptive representation and the political ambition of women in Germany -- Europe's largest democracy. Combining an analysis of observational data measuring crimes against politicians with evidence from original and pre-registered survey experiments, we first demonstrate that attacks on political elites are not associated with fewer female candidates on party lists for local elections. Examining political ambitions and underlying microfoundations with different samples of respondents varying in their likelihood of considering political candidacy, we provide survey-experimental evidence that information about the prevalence of political crime does not reduce willingness to run for office or engage in politics among female respondents with high political interest, but may do so among those with low political interest. Taken together, this study highlights resilience of underrepresented groups in face of increasing political violence. However, we also show that political violence may create a pipeline problem if it deters the wider population of women from even considering to run for office.
-</details>
+<div class="research-item">
+  <span style="color:Navy">
+    [**Does Political Violence Undermine Descriptive Representation?  
+    The Case of Women in Politics**](https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.70017)
+  </span>  
+  <span style="font-size:0.9em;">
+    joint work with <a href="https://www.jeyhunalizade.com/">*Jeyhun Alizade*</a>,
+    <a href="https://www.fabioellger.com/">*Fabio Ellger*</a> and
+    <a href="https://tichelbaecker.com/">*Thomas Tichelbaecker*</a>
+  </span>
+
+  <details>
+    <summary>Abstract</summary>
+    <div class="abstract-wrapper">
+      <img src="/assets/images/political-violence-women-politics.png"
+           alt="Graph: Political Violence & Women's Descriptive Representation">
+      <div class="abstract-text">
+        Do attacks against politicians exacerbate the political underrepresentation of marginalized groups? Existing research suggests that candidates and office holders from underrepresented groups are more likely to become targets of political violence, but little is known about the consequences of indirect exposure to political violence for descriptive representation and political ambition. Focusing on the case of women in politics, we study how the prevalence of political violence affects both the descriptive representation and the political ambition of women in Germany – Europe’s largest democracy. Combining an analysis of observational data measuring crimes against politicians with evidence from original and pre-registered survey experiments, we first demonstrate that attacks on political elites are not associated with fewer female candidates on party lists for local elections. Examining political ambitions and underlying microfoundations with different samples of respondents varying in their likelihood of considering political candidacy, we provide survey-experimental evidence that information about the prevalence of political crime does not reduce willingness to run for office or engage in politics among female respondents with high political interest, but may do so among those with low political interest. Taken together, this study highlights resilience of underrepresented groups in face of increasing political violence. However, we also show that political violence may create a pipeline problem if it deters the wider population of women from even considering to run for office.
+      </div>
+    </div>
+  </details>
+</div>
 
 
 <br>
