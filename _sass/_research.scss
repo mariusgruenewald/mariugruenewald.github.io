@@ -3,20 +3,12 @@
   margin-bottom: 1.5em;
 }
 
-.research-item details .abstract-wrapper {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: flex-start;
-  margin-top: 0.5em;
-  width: 100%;
-  box-sizing: border-box;
-}
-
 .research-item details .abstract-wrapper img {
-  /* 10 % of the wrapper, never more */
-  flex: 0 0 10%;
-  max-width: 10%;
-  width: 10%;
+  /* 30 % of the row, but never more than 260 px and never less than 140 px  */
+  flex: 0 1 30%;
+  width: 30%;
+  max-width: 260px;
+  min-width: 140px;
   height: auto;
   object-fit: contain;
   margin-right: 1em;
@@ -24,7 +16,21 @@
 }
 
 .research-item details .abstract-wrapper .abstract-text {
-  /* the rest of the row */
-  flex: 1 1 88%;          /* 100 – 10 – 1 em margin ≈ 88 % */
+  /* fill whatever remains */
+  flex: 1 1 calc(100% - 1em - 30%);
   box-sizing: border-box;
+}
+
+/* Optional: on very narrow screens, stack image + text vertically */
+@media (max-width: 540px) {
+  .research-item details .abstract-wrapper {
+    flex-direction: column;
+  }
+  .research-item details .abstract-wrapper img,
+  .research-item details .abstract-wrapper .abstract-text {
+    flex: 0 0 auto;       /* stop the 30 % rule */
+    max-width: 100%;
+    width: 100%;
+    margin-right: 0;
+  }
 }
