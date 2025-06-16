@@ -65,22 +65,38 @@ title: "research"
 ---
 
 <br>
-#### <ins>Work in Progress</ins> <br>
-<br>
+#### <ins>Work in Progress</ins><br><br>
 
-<span style="color:Navy"> **Intergenerational mortgage financing - The Role of Cosigning** </span><br>
-    - <span style="font-size: 0.9em;">Presented at: *EUI Alumni Conference (2025)*</span>
-    
----
+<div class="research">
+  <span style="color:Navy; font-weight: bold;">
+    Intergenerational Mortgage Financing – The Role of Cosigning
+  </span><br>
+  <span style="font-size:0.9em; color:#555;">
+    Presented at: <em>EUI Alumni Conference (2025)</em>
+  </span>
+</div>
 
-<span style="color:Navy"> **Nonlinear Productivity Dynamics** </span> <br>
-    - <span style="font-size: 0.9em;">with *Alberto Ferreira* and *David McCarthy* </span> <br>
-    - <span style="font-size: 0.9em;">Presented at: *ECB Early Ideas Seminar (2024)*, *CREI Macro WG (2025)* </span> <br>
+<hr>
 
----
+<div class="research">
+  <span style="color:Navy; font-weight: bold;">
+    Nonlinear Productivity Dynamics
+  </span><br>
+  <span style="font-size:0.9em; color:#555;">
+    with <em>Alberto Ferreira</em> and <em>David McCarthy</em><br>
+    Presented at: <em>ECB Early Ideas Seminar (2024)</em>, <em>CREI Macro WG (2025)</em>
+  </span>
+</div>
 
-<span style="color:Navy"> **The Effect Of Financial Constraints on Consumer Prices** </span> <br>
-    - <span style="font-size: 0.9em;">with *Annalisa Ferrando*, *Lukas Henkel*, *Cecilia Sarchi* and *Tobias Müller* </span> <br>
-    
+<hr>
+
+<div class="research">
+  <span style="color:Navy; font-weight: bold;">
+    The Effect Of Financial Constraints on Consumer Prices
+  </span><br>
+  <span style="font-size:0.9em; color:#555;">
+    with <em>Annalisa Ferrando</em>, <em>Lukas Henkel</em>, <em>Cecilia Sarchi</em> and <em>Tobias Müller</em>
+  </span>
+</div>
 
 
