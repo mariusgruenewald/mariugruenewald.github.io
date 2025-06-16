@@ -1,6 +1,5 @@
 menu:
 - {name: 'research', url: '/research'}
-- {name: 'teaching', url: '/teaching'}
 - {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
 
@@ -10,9 +9,9 @@ people:
 - {name: 'Graduate Student', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
 
 social:
-- {icon: 'github', link: 'https://github.com/michaelbarczay'}
-- {icon: 'twitter', link: 'https://twitter.com/michaelbarczay'}
-- {icon: 'linkedin', link: 'https://www.linkedin.com/in/barczay/'}
+- {icon: 'github', link: 'https://github.com/mariusgruenewald'}
+- {icon: 'bluesky', link: 'https://bsky.app/profile/mgruenewald.bsky.social'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/marius-gr%C3%BCnewald-40b577180/'}
 
 contacts:
 - {name: 'Dr. Academia', title: 'Professor', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
