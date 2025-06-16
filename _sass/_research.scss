@@ -13,13 +13,18 @@
 }
 
 .research-item details .abstract-wrapper img {
-  flex: 0 0 40%;
-  max-width: 100%;
+  /* 10 % of the wrapper, never more */
+  flex: 0 0 10%;
+  max-width: 10%;
+  width: 10%;
   height: auto;
   object-fit: contain;
   margin-right: 1em;
   box-sizing: border-box;
 }
+
 .research-item details .abstract-wrapper .abstract-text {
-  flex: 1 1 60%;
+  /* the rest of the row */
+  flex: 1 1 88%;          /* 100 – 10 – 1 em margin ≈ 88 % */
+  box-sizing: border-box;
 }
