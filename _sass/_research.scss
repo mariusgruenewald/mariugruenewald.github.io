@@ -15,14 +15,10 @@
 
 /* ---------- new image sizing ---------- */
 .research-item details .abstract-wrapper img {
-  /* baseline: take ±30 % of the row */
-  flex: 0 1 30%;
-  width: 30%;
-
-  /* safety rails */
-  max-width: 260px;         /* don’t dominate big screens  */
-  min-width: 140px;         /* don’t shrink below readability */
-
+  flex: 0 1 40%;
+  width: 40%;
+  max-width: 300px;
+  min-width: 180px;
   height: auto;
   object-fit: contain;
   margin-right: 1em;
@@ -31,7 +27,7 @@
 
 /* text takes whatever’s left */
 .research-item details .abstract-wrapper .abstract-text {
-  flex: 1 1 calc(100% - 1em - 30%);
+  flex: 1 1 calc(100% - 1em - 40%);
   box-sizing: border-box;
 }
 
