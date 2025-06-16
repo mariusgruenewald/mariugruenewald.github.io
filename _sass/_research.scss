@@ -1,0 +1,14 @@
+// _sass/_research-items.scss
+.research details .abstract-wrapper {
+  display: flex;
+  align-items: flex-start;
+  margin-top: 0.5em;
+}
+.research details .abstract-wrapper img {
+  width: 120px;
+  height: auto;
+  margin-right: 1em;
+}
+.research details .abstract-wrapper .abstract-text {
+  flex: 1;
+}
