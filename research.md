@@ -11,9 +11,9 @@ title: "research"
 <div class="research">
   <p>
     <a href="https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.70017" style="color: Navy; font-weight: bold; text-decoration: none;">
-      Does Political Violence Undermine Descriptive Representation?<br>
-      The Case of Women in Politics
-    </a><br>
+      Does Political Violence Undermine Descriptive Representation? The Case of Women in Politics
+    </a>
+    - <em> European Journal of Political Research</em><br>
     <span style="font-size: 0.9em; color: #555;">
       joint work with 
       <a href="https://www.jeyhunalizade.com/"><em>Jeyhun Alizade</em></a>, 
