@@ -3,7 +3,7 @@ layout: home
 title: "Home"
 ---
 
-Hi there! I'm Marius and I am a furth year PhD candidate in Economics at the [European University Institute](https://www.eui.eu/en/academic-units/department-of-economics) in Florence, Italy. 
+Hi there! I'm Marius and I am a fourth-year PhD candidate in Economics at the [European University Institute](https://www.eui.eu/en/academic-units/department-of-economics) in Florence, Italy. 
 I am also a Research Analyst at [Monetary Policy Research Division](https://www.ecb.europa.eu/pub/economic-research/programmes/shared/pdf/Introducing_DG_Research.pdf) of the European Central Bank working on the [PRISMA](https://www.ecb.europa.eu/pub/research-networks/html/researcher_prisma.en.html) project.
 
 I am working under the supervision of [Giancarlo Corsetti](https://sites.google.com/site/giancarlocorsetti/) and [Jesus Bueren](https://jesusbueren.github.io/). At the ECB, I work with [Peter Karadi](https://sites.google.com/site/pkaradi696/), [Chiara Osbat](https://www.ecb.europa.eu/pub/research/authors/profiles/chiara-osbat.en.html) and [Georg Strasser](https://www.ecb.europa.eu/pub/research/authors/profiles/georg-strasser.en.html).
