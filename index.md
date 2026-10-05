@@ -8,6 +8,6 @@ I am also a Research Analyst at [Monetary Policy Research Division](https://www.
 
 I am working under the supervision of [Giancarlo Corsetti](https://sites.google.com/site/giancarlocorsetti/) and [Jesus Bueren](https://jesusbueren.github.io/). At the ECB, I work with [Peter Karadi](https://sites.google.com/site/pkaradi696/), [Chiara Osbat](https://www.ecb.europa.eu/pub/research/authors/profiles/chiara-osbat.en.html) and [Georg Strasser](https://www.ecb.europa.eu/pub/research/authors/profiles/georg-strasser.en.html).
 
-I'm interested in work relating to **(Quantitative) Macroeconomics**, **Portfolio Choice** and **Firms**. On lighter side, I am a marked-by-life-supporter of the [1.FC Kaiserslautern](https://fck.de/de/) and I enjoy travelling a lot.
+I'm interested in work relating to **Macroeconomics**, **Household Finance**, **Firm Dynamics**, and **Financial and Monetary Economics**. On lighter side, I am a marked-by-life-supporter of the [1.FC Kaiserslautern](https://fck.de/de/) and I enjoy travelling a lot.
 
 For more information, have a look at my [research](https://mariusgruenewald.com/research) or my [CV](/assets/gruenewald_cv.pdf). 
