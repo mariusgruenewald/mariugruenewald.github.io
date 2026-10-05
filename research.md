@@ -91,7 +91,7 @@ title: "research"
     <span style="font-size:0.9em; color:#555;">
       with <a href="https://www.eui.eu/people?id=jose-pires-de-sousa-azevedo-ferreira"><em>Alberto Ferreira</em></a> and 
       <a href="https://mccarthydavid.com/"><em>David McCarthy</em></a> <br>
-      Presented at: <em>ECB Early Ideas Seminar (2024)</em>, <em>CREI Macro WG (2025)</em>
+      Presented at: <em>ECB Early Ideas Seminar (2024)</em>, <em>CREI Macro WG (2025)</em>, <em>EUI Macro Group</em>
     </span>
   </div>
   
