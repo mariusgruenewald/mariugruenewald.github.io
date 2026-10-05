@@ -77,7 +77,7 @@ title: "research"
       Collected and Discarded: Family Guarantees in U.S. Mortgage Underwriting
     </span><br>
     <span style="font-size:0.9em; color:#555;">
-      Presented at: <em>EUI Alumni Conference (2025)</em>, <em>EUI Macro Group</em>, <em>EUI Microeconometrics Group</em>, <em>Midwest Macro Winter Meeting (2026)</em><br>
+      Presented at: <em>EUI Alumni Conference (2025)</em>, <em>EUI Macro Group (2026)</em>, <em>EUI Microeconometrics Group</em>, <em>Midwest Macro Winter Meeting (2026)</em><br>
       <a href="/assets/supplement.pdf" download="Gruenewald_Online_Appendix.pdf">Online Appendix (PDF)</a>
     </span>
   </div>
@@ -91,7 +91,7 @@ title: "research"
     <span style="font-size:0.9em; color:#555;">
       with <a href="https://www.eui.eu/people?id=jose-pires-de-sousa-azevedo-ferreira"><em>Alberto Ferreira</em></a> and 
       <a href="https://mccarthydavid.com/"><em>David McCarthy</em></a> <br>
-      Presented at: <em>ECB Early Ideas Seminar (2024)</em>, <em>CREI Macro WG (2025)</em>, <em>EUI Macro Group</em>
+      Presented at: <em>ECB Early Ideas Seminar (2024)</em>, <em>CREI Macro WG (2025)</em>, <em>EUI Macro Group (2026)</em>
     </span>
   </div>
   
