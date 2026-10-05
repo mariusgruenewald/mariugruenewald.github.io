@@ -74,10 +74,11 @@ title: "research"
 <div class="research">
   <div class="research-item">
     <span style="color:Navy; font-weight: bold;">
-      Intergenerational Mortgage Financing – The Role of Cosigning
+      Collected and Discarded: Family Guarantees in U.S. Mortgage Underwriting
     </span><br>
     <span style="font-size:0.9em; color:#555;">
-      Presented at: <em>EUI Alumni Conference (2025)</em>
+      Presented at: <em>EUI Alumni Conference (2025)</em><br>
+      <a href="/assets/supplement.pdf" download="Gruenewald_Online_Appendix.pdf">Online Appendix (PDF)</a>
     </span>
   </div>
   
