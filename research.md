@@ -77,7 +77,7 @@ title: "research"
       Collected and Discarded: Family Guarantees in U.S. Mortgage Underwriting
     </span><br>
     <span style="font-size:0.9em; color:#555;">
-      Presented at: <em>EUI Alumni Conference (2025)</em>, <em>EUI Macro Group (2026)</em>, <em>EUI Microeconometrics Group (2026)</em>, <em>Midwest Macro Winter Meeting (2026)</em><br>
+      Presented at: <em>EUI Alumni Conference (2025)</em>, <em>EUI Macro Group (2026)</em>, <em>EUI Microeconometrics Group (2026)</em>, <em>Midwest Macro Winter Meeting (2026)</em>, <em>ECB DG Research (2026)</em><br>
       <a href="/assets/supplement.pdf" download="Gruenewald_Online_Appendix.pdf">Online Appendix (PDF)</a>
     </span>
   </div>
