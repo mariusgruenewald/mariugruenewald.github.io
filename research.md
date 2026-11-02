@@ -126,13 +126,49 @@ title: "research"
       <a href="https://mccarthydavid.com/"><em>David McCarthy</em></a> <br>
       Presented at: <em>ECB Early Ideas Seminar (2024)</em>, <em>CREI Macro WG (2025)</em>, <em>EUI Macro Group (2026)</em>
     </span>
+
+    <details>
+      <summary style="cursor: pointer; font-weight: bold;">Abstract</summary>
+      <div class="abstract-wrapper">
+        <!-- your graph -->
+        <img 
+          src="/assets/img/np_tfpq_persistence.png"
+          alt="Graph: Nonlinear persistence of TFPQ by lagged productivity and shock quantile"
+        >
+        <!-- the actual abstract text -->
+        <div class="abstract-text">
+          <p>
+            Models of price setting and firm dynamics almost always assume that firm 
+            productivity follows a linear AR(1) with Gaussian shocks. Intuitively, every 
+            firm faces the same risk, large shocks are rare, and persistence is constant. 
+            We develop a framework to estimate a production function without relying on 
+            assumptions associated with the AR(1) process. Furthermore, we jointly estimate 
+            the production function with a demand system. Using this framework on Portuguese 
+            manufacturers with observed prices and quantities, we find that physical 
+            productivity (TFPQ) is neither linear nor Gaussian. Around the center of the 
+            distribution, AR(1) dynamics are an accurate description, but not in the tails. 
+            There, firms face up to four times the volatility of the median firm, and a large 
+            shock can erase much of a firm's history. Relaxing the AR(1) assumption matters 
+            for structural modelling as well. Using the estimated process in a vanilla model 
+            of labour demand with non-convex adjustment costs, we compare it to the AR(1) 
+            world: both processes fit the targeted moments well. However, the parameterization 
+            implied by the nonlinear estimation exhibits much lower firing frictions, suggesting 
+            that the inaction in employment responses associated with adjustment costs is, to 
+            some extent, the result of misspecifying the productivity process. Revenue 
+            productivity, finally, is a poor proxy for efficiency: it correlates only weakly 
+            with TFPQ, because prices respond more to demand than to efficiency and compress 
+            efficiency gaps.
+          </p>
+        </div>
+      </div>
+    </details>
   </div>
   
   <hr>
   
   <div class="research-item">
     <span style="color:Navy; font-weight: bold;">
-      The Effect Of Financial Constraints on Consumer Prices
+      From Credit Terms to Shelf Prices: Financial Frictions and the Margins of Price Adjustment
     </span><br>
     <span style="font-size:0.9em; color:#555;">
       with <a href="https://www.ecb.europa.eu/pub/research/authors/profiles/annalisa-ferrando.en.html"><em>Annalisa Ferrando</em></a>, 
@@ -140,6 +176,30 @@ title: "research"
       <em>Cecilia Sarchi</em> and 
       <a href="https://sites.google.com/view/tobiasfabianmueller"><em>Tobias Müller</em></a>
     </span>
+
+    <details>
+      <summary style="cursor: pointer; font-weight: bold;">Abstract</summary>
+      <div class="abstract-wrapper">
+        <!-- the actual abstract text -->
+        <div class="abstract-text">
+          <p>
+            How do financial frictions influence price setting by firms? The literature 
+            disagrees even on the sign: constrained firms may raise prices to protect their 
+            margins or cut them to raise cash. We link euro-area scanner micro price data to 
+            producers' balance sheets and combine this with the answers of the firms in the 
+            ECB Survey on the Access to Finance of Enterprises (SAFE). There, we observe both 
+            the extensive and intensive margins of credit, and the disagreement in the 
+            literature resolves. When banks become less willing to lend, firms raise prices 
+            less often and by less to raise cash. When borrowing is more expensive, firms cut 
+            prices less often, and inflation rises as they protect their margins. In either 
+            case, the firm's response revolves around liquidity, and a menu-cost model with 
+            both channels reproduces the responses endogenously. Credit conditions added about 
+            2.2 percentage points to euro-area grocery inflation in 2021–23, mildly amplifying 
+            the surge.
+          </p>
+        </div>
+      </div>
+    </details>
   </div>
 
 </div>
