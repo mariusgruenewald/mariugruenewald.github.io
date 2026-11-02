@@ -199,7 +199,7 @@ title: "research"
             prices less often, and inflation rises as they protect their margins. In either 
             case, the firm's response revolves around liquidity, and a menu-cost model with 
             both channels reproduces the responses endogenously. Credit conditions added about 
-            2.2 percentage points to euro-area grocery inflation in 2021–23, mildly amplifying 
+            1 percentage point to euro-area grocery inflation in 2021–23, mildly amplifying 
             the surge.
           </p>
         </div>
