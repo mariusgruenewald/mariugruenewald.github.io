@@ -86,8 +86,8 @@ title: "research"
       <div class="abstract-wrapper">
         <!-- your graph -->
         <img 
-          src="/assets/img/jmp_rates_delinquency.png"
-          alt="Graph: Note rates and serious delinquency of cosigned and solo-borrower mortgages"
+          src="/assets/img/jmp_welfare_by_income.png"
+          alt="Graph: Welfare gains from cosigning and the reform, by the child's income"
         >
         <!-- the actual abstract text -->
         <div class="abstract-text">
