@@ -180,6 +180,11 @@ title: "research"
     <details>
       <summary style="cursor: pointer; font-weight: bold;">Abstract</summary>
       <div class="abstract-wrapper">
+        <!-- your graph -->
+        <img 
+          src="/assets/img/fcp_dynamics_interview.png"
+          alt="Graph: Inflation gap around the SAFE interview for firms reporting worse credit access and worse credit cost"
+        >
         <!-- the actual abstract text -->
         <div class="abstract-text">
           <p>
