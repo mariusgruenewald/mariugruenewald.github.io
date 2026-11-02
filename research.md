@@ -78,7 +78,9 @@ title: "research"
     </span><br>
     <span style="font-size:0.9em; color:#555;">
       Presented at: <em>EUI Alumni Conference (2025)</em>, <em>EUI Macro Group (2026)</em>, <em>EUI Microeconometrics Group (2026)</em>, <em>Midwest Macro Winter Meeting (2026)</em>, <em>ECB DG Research (2026)</em><br>
-      <a href="/assets/supplement.pdf" download="Gruenewald_Online_Appendix.pdf">Online Appendix (PDF)</a>
+      <a href="/assets/gruenewald_jmp.pdf" download="Gruenewald_JMP.pdf">Paper (PDF)</a> | 
+      <a href="/assets/supplement.pdf" download="Gruenewald_Online_Appendix.pdf">Online Appendix (PDF)</a> | 
+      <a href="/assets/gruenewald_jmp_slides.pdf" download="Gruenewald_JMP_Slides.pdf">Slides (PDF)</a>
     </span>
 
     <details>
