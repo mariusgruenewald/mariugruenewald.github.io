@@ -5,9 +5,57 @@ title: "research"
 
 ## Research <br>
 <br>
-#### <ins>Publications</ins> <br>
+#### <ins>Job Market Paper</ins> <br>
 <br>
 
+<div class="research">
+  <div class="research-item">
+    <span style="color:Navy; font-weight: bold;">
+      The Unrealized Potential of a Parent's Promise: Cosigned Mortgages and Access to Credit in the United States
+    </span><br>
+    <span style="font-size:0.9em; color:#555;">
+      Presented at: <em>EUI Alumni Conference (2025)</em>, <em>EUI Macro Group (2026)</em>, <em>EUI Microeconometrics Group (2026)</em>, <em>Midwest Macro Winter Meeting (2026)</em>, <em>ECB DG Research (2026)</em><br>
+      <a href="/assets/gruenewald_jmp.pdf" download="Gruenewald_JMP.pdf">Paper (PDF)</a> | 
+      <a href="/assets/supplement.pdf" download="Gruenewald_Online_Appendix.pdf">Online Appendix (PDF)</a> | 
+      <a href="/assets/gruenewald_jmp_slides.pdf" download="Gruenewald_JMP_Slides.pdf">Slides (PDF)</a>
+    </span>
+
+    <details>
+      <summary style="cursor: pointer; font-weight: bold;">Abstract</summary>
+      <div class="abstract-wrapper">
+        <!-- your graph -->
+        <img 
+          src="/assets/img/jmp_welfare_by_income.png"
+          alt="Graph: Welfare gains from cosigning and the reform, by the child's income"
+        >
+        <!-- the actual abstract text -->
+        <div class="abstract-text">
+          <p>
+            This paper asks how altruistic third-party guarantees shape access to credit, 
+            and why they deliver less than they could in the U.S. mortgage market. Parents 
+            can make a child's mortgage safer by cosigning, but lenders charge the solo rate, 
+            so families overpay 25 basis points. This safety does not come from the parent's 
+            information advantage. Unlike a commercial guarantor, the parent also cares about 
+            the child's gain, making her not necessarily choose the safest. This introduces 
+            adverse selection that dominates the screening. The promise more than offsets the 
+            lower cosigning pool quality, as children miss fewer payments when a parent cosigns. 
+            Underwriting acknowledges cosigning only partially on admission but not for pricing. 
+            Cosigning raises homeownership among young Americans by 0.8 percentage points. 
+            Correcting for differences in pool quality and the guarantee nearly doubles access 
+            to homeownership without introducing more defaults. It raises welfare, mostly for 
+            lower-income children. These results come from a general-equilibrium model with 
+            asymmetric information, estimated on the first U.S. measure of parental cosigning, 
+            from web-scraped deeds and administrative data.
+          </p>
+        </div>
+      </div>
+    </details>
+  </div>
+</div>
+---
+
+<br>
+#### <ins>Publications</ins><br><br>
 
 <div class="research">
 
@@ -72,51 +120,6 @@ title: "research"
 #### <ins>Work in Progress</ins><br><br>
 
 <div class="research">
-  <div class="research-item">
-    <span style="color:Navy; font-weight: bold;">
-      The Unrealized Potential of a Parent's Promise: Cosigned Mortgages and Access to Credit in the United States
-    </span><br>
-    <span style="font-size:0.9em; color:#555;">
-      Presented at: <em>EUI Alumni Conference (2025)</em>, <em>EUI Macro Group (2026)</em>, <em>EUI Microeconometrics Group (2026)</em>, <em>Midwest Macro Winter Meeting (2026)</em>, <em>ECB DG Research (2026)</em><br>
-      <a href="/assets/gruenewald_jmp.pdf" download="Gruenewald_JMP.pdf">Paper (PDF)</a> | 
-      <a href="/assets/supplement.pdf" download="Gruenewald_Online_Appendix.pdf">Online Appendix (PDF)</a> | 
-      <a href="/assets/gruenewald_jmp_slides.pdf" download="Gruenewald_JMP_Slides.pdf">Slides (PDF)</a>
-    </span>
-
-    <details>
-      <summary style="cursor: pointer; font-weight: bold;">Abstract</summary>
-      <div class="abstract-wrapper">
-        <!-- your graph -->
-        <img 
-          src="/assets/img/jmp_welfare_by_income.png"
-          alt="Graph: Welfare gains from cosigning and the reform, by the child's income"
-        >
-        <!-- the actual abstract text -->
-        <div class="abstract-text">
-          <p>
-            This paper asks how altruistic third-party guarantees shape access to credit, 
-            and why they deliver less than they could in the U.S. mortgage market. Parents 
-            can make a child's mortgage safer by cosigning, but lenders charge the solo rate, 
-            so families overpay 25 basis points. This safety does not come from the parent's 
-            information advantage. Unlike a commercial guarantor, the parent also cares about 
-            the child's gain, making her not necessarily choose the safest. This introduces 
-            adverse selection that dominates the screening. The promise more than offsets the 
-            lower cosigning pool quality, as children miss fewer payments when a parent cosigns. 
-            Underwriting acknowledges cosigning only partially on admission but not for pricing. 
-            Cosigning raises homeownership among young Americans by 0.8 percentage points. 
-            Correcting for differences in pool quality and the guarantee nearly doubles access 
-            to homeownership without introducing more defaults. It raises welfare, mostly for 
-            lower-income children. These results come from a general-equilibrium model with 
-            asymmetric information, estimated on the first U.S. measure of parental cosigning, 
-            from web-scraped deeds and administrative data.
-          </p>
-        </div>
-      </div>
-    </details>
-  </div>
-  
-  <hr>
-  
   <div class="research-item">
     <span style="color:Navy; font-weight: bold;">
       Nonlinear Productivity Dynamics
