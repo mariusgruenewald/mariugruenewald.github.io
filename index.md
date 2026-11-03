@@ -4,7 +4,7 @@ title: "Home"
 ---
 
 Hi there! I'm Marius and I am a fourth-year PhD candidate in Economics at the [European University Institute](https://www.eui.eu/en/academic-units/department-of-economics) in Florence, Italy. 
-Previously, I was a Research Analyst at the [Monetary Policy Research Division](https://www.ecb.europa.eu/pub/economic-research/programmes/shared/pdf/Introducing_DG_Research.pdf) of the European Central Bank, working on the [PRISMA](https://www.ecb.europa.eu/pub/research-networks/html/researcher_prisma.en.html) project.
+Previously, I was a Research Analyst at the [Monetary Policy Research Division](https://www.ecb.europa.eu/pub/economic-research/programmes/shared/pdf/Introducing_DG_Research.pdf) of the European Central Bank, working on the [PRISMA](https://www.ecb.europa.eu/pub/research-networks/html/researcher_prisma.en.html) project. I was a consultant to the Prices and Costs Division of the ECB.
 
 **I'm on the 2026–27 job market. Here is my <a href="/assets/gruenewald_jmp.pdf" download="Gruenewald_JMP.pdf">job-market paper</a>.**
 
