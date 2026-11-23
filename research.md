@@ -31,21 +31,20 @@ title: "research"
         <!-- the actual abstract text -->
         <div class="abstract-text">
           <p>
-            This paper asks how altruistic third-party guarantees shape access to credit, 
-            and why they deliver less than they could in the U.S. mortgage market. Parents 
-            can make a child's mortgage safer by cosigning, but lenders charge the solo rate, 
-            so families overpay 25 basis points. This safety does not come from the parent's 
-            information advantage. Unlike a commercial guarantor, the parent also cares about 
-            the child's gain, making her not necessarily choose the safest. This introduces 
-            adverse selection that dominates the screening. The promise more than offsets the 
-            lower cosigning pool quality, as children miss fewer payments when a parent cosigns. 
-            Underwriting acknowledges cosigning only partially on admission but not for pricing. 
-            Cosigning raises homeownership among young Americans by 0.8 percentage points. 
-            Correcting for differences in pool quality and the guarantee nearly doubles access 
-            to homeownership without introducing more defaults. It raises welfare, mostly for 
-            lower-income children. These results come from a general-equilibrium model with 
-            asymmetric information, estimated on the first U.S. measure of parental cosigning, 
-            from web-scraped deeds and administrative data.
+            Parents can make a child's mortgage safer by cosigning, making credit more 
+            accessible and affordable. Unlike a commercial guarantor, who would only select 
+            on safety, the parent also cares about the child's gain, introducing adverse 
+            selection. Building a novel dataset from web-scraped deeds and administrative 
+            data, I construct the first U.S. measure of parental cosigning. I provide evidence 
+            that, under current U.S. market practice, underwriting acknowledges cosigning only 
+            partially on admission but not for pricing&mdash;banks charge the same rate to solo 
+            and cosigned borrowers. Using this evidence, I estimate a general-equilibrium model 
+            with asymmetric information, and show that cosigning in the U.S. delivers less than 
+            it could: (a) cosigning families overpay by 25 basis points, and still, cosigning 
+            raises ownership rates by 0.8 percentage points; (b) a counterfactual scenario 
+            suggests that if prices adjusted for both cosigning status and parental income, 
+            the guarantee could increase access to homeownership by an additional 0.6 
+            percentage points without increasing defaults.
           </p>
         </div>
       </div>
@@ -117,7 +116,7 @@ title: "research"
 ---
 
 <br>
-#### <ins>Work in Progress</ins><br><br>
+#### <ins>Working Papers</ins><br><br>
 
 <div class="research">
   <div class="research-item">
@@ -176,8 +175,8 @@ title: "research"
     <span style="font-size:0.9em; color:#555;">
       with <a href="https://www.ecb.europa.eu/pub/research/authors/profiles/annalisa-ferrando.en.html"><em>Annalisa Ferrando</em></a>, 
       <a href="https://www.ecb.europa.eu/pub/research/authors/profiles/lukas-henkel.en.html"><em>Lukas Henkel</em></a>, 
-      <em>Cecilia Sarchi</em> and 
-      <a href="https://sites.google.com/view/tobiasfabianmueller"><em>Tobias Müller</em></a>
+      <a href="https://sites.google.com/view/tobiasfabianmueller"><em>Tobias Müller</em></a> and 
+      <em>Cecilia Sarchi</em>
     </span>
 
     <details>
